@@ -33,7 +33,7 @@ contract nftContract  is ERC721URIStorage{
                         '", "description":',
                         _description,
                         '"image": "https://',
-                        _NFTurl, '.jpg',
+                        _NFTurl,
                         '"}'
                     )
                 )
