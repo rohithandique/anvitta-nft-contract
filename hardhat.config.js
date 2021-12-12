@@ -8,6 +8,10 @@ module.exports = {
     matic: {
       url: "https://rpc-mumbai.maticvigil.com",
       accounts: [privateKey]
+    },
+    rinkeby: {
+      url: "https://eth-rinkeby.alchemyapi.io/v2/sL5r3xGMlVrf5ZnyNcfbnVJ1JYl3UCro",
+      accounts: [privateKey]
     }
   }
 };
